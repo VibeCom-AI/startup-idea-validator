@@ -34,7 +34,7 @@ Weights reflect actual seed-stage VC priorities: **Market + Founder-Market Fit =
 
 ```bash
 # Clone the repo
-git clone https://github.com/vibecomai/startup-idea-validator.git
+git clone https://github.com/VibeCom-AI/startup-idea-validator.git
 
 # Copy to your skills directory (personal)
 cp -r startup-idea-validator ~/.claude/skills/
